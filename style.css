@@ -141,6 +141,10 @@
     color: #000;
 }
 
+/*
+ *[footer]のスタイルシート
+ */
+
 .block-footer p {
     clear: both;
     text-align: center;
